@@ -1,5 +1,5 @@
 import pandas as pd
-import os # para conocer la ruta de ejecucion del programa
+import os
 
 ##################################################################
 ##CONFIGURACION DE DIRECTORIOS#######################################################
